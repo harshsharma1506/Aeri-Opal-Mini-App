@@ -1,6 +1,21 @@
-# 🧘 Aeri – Long-Form Meditation Playback System
+# Experiment: Google Labs Opal meditation app.
 
-https://opal.google/app/1jN-BOylH3CM-xCTsjMfVzlve2rcBv-Io
+## Goal:
+Explore long-form TTS generation and audio queue handling inside Opal.
+
+## What worked:
+- Script chunking
+- Multi-node TTS generation
+
+## Limitations discovered:
+- Audio lifecycle issues after first chunk
+- State persistence challenges
+- Tool not ideal for multi-step orchestration
+
+## Conclusion:
+Fun experiment. Good for prototyping, not ideal for complex stateful audio apps.
+
+# 🧘 Aeri – Long-Form Meditation Playback System
 
 Aeri is a structured, long-form meditation audio system built inside a constrained node-based environment (e.g., low-code / experimental app builder).
 
@@ -257,22 +272,6 @@ Rather than fighting platform limits, the design embraces them and structures ar
 * Audio LM
 * Lyria for music generation
 
-## Experiment: Google Labs Opal meditation app.
-
-## Goal:
-Explore long-form TTS generation and audio queue handling inside Opal.
-
-## What worked:
-- Script chunking
-- Multi-node TTS generation
-
-## Limitations discovered:
-- Audio lifecycle issues after first chunk
-- State persistence challenges
-- Tool not ideal for multi-step orchestration
-
-## Conclusion:
-Fun experiment. Good for prototyping, not ideal for complex stateful audio apps.
 
 
 
