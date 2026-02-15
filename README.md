@@ -1,6 +1,7 @@
 # 🧘 Aeri – Long-Form Meditation Playback System
 
-< here src = "https://opal.google/app/1jN-BOylH3CM-xCTsjMfVzlve2rcBv-Io">
+https://opal.google/app/1jN-BOylH3CM-xCTsjMfVzlve2rcBv-Io
+
 Aeri is a structured, long-form meditation audio system built inside a constrained node-based environment (e.g., low-code / experimental app builder).
 
 The system overcomes platform limitations such as:
@@ -247,7 +248,8 @@ Rather than fighting platform limits, the design embraces them and structures ar
 
 ## The process flow
 
-<img width="1435" height="458" alt="image" src="https://github.com/user-attachments/assets/9c22fb60-f74e-49ea-90d8-ba1dc4cf8d74" />
+<img width="1377" height="677" alt="image" src="https://github.com/user-attachments/assets/bfc32321-7b74-46e5-b7bd-39f297753f9b" />
+
 
 ## Models used 
 * Gemini 2.5
