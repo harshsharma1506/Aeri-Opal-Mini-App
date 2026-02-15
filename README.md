@@ -1,10 +1,6 @@
-# Aeri-Opal-Mini-App
-Here’s a clean, professional README you can use for your project.
-
----
-
 # 🧘 Aeri – Long-Form Meditation Playback System
 
+< here src = "https://opal.google/app/1jN-BOylH3CM-xCTsjMfVzlve2rcBv-Io">
 Aeri is a structured, long-form meditation audio system built inside a constrained node-based environment (e.g., low-code / experimental app builder).
 
 The system overcomes platform limitations such as:
