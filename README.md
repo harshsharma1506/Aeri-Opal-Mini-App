@@ -255,7 +255,24 @@ Rather than fighting platform limits, the design embraces them and structures ar
 * Gemini 2.5
 * Gemini 3 Pro
 * Audio LM
-* Lyria for music generation 
+* Lyria for music generation
+
+## Experiment: Google Labs Opal meditation app.
+
+## Goal:
+Explore long-form TTS generation and audio queue handling inside Opal.
+
+## What worked:
+- Script chunking
+- Multi-node TTS generation
+
+## Limitations discovered:
+- Audio lifecycle issues after first chunk
+- State persistence challenges
+- Tool not ideal for multi-step orchestration
+
+## Conclusion:
+Fun experiment. Good for prototyping, not ideal for complex stateful audio apps.
 
 
 
